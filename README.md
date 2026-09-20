@@ -1,26 +1,26 @@
- 
+# 🦇🍕 Pipistrello Pizza
 
+Videogioco educativo sviluppato con [Microsoft MakeCode Arcade](https://arcade.makecode.com), 
+creato insieme a studenti di scuola secondaria di primo grado nell'ambito di un laboratorio 
+didattico di sviluppo software e pensiero computazionale.
 
-> Open this page at [https://sonnyaceto01-ui.github.io/didattica-microsoft-makecode/](https://sonnyaceto01-ui.github.io/didattica-microsoft-makecode/)
+## 🎮 Gioca subito
 
-## Use as Extension
+👉 **[Gioca a Pipistrello Pizza](https://arcade.makecode.com/70130-34626-49496-54591)**
 
-This repository can be added as an **extension** in MakeCode.
+Il gioco è giocabile direttamente dal browser, senza bisogno di installare nulla.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/sonnyaceto01-ui/didattica-microsoft-makecode** and import
+## 🔧 Vedi ed edita il codice
 
-## Edit this project
+Per aprire il progetto nell'editor MakeCode (blocchi o codice) e vedere come è stato costruito:
+👉 [Apri il progetto in MakeCode Arcade](https://arcade.makecode.com/70130-34626-49496-54591)
 
-To edit this repository in MakeCode.
+## 📁 Su questo repository
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/sonnyaceto01-ui/didattica-microsoft-makecode** and click import
+Questa è la copia di backup del progetto sincronizzata da MakeCode. Contiene i file necessari 
+al funzionamento dell'editor e non è pensata per essere letta direttamente — per giocare o 
+vedere il codice usa i link sopra.
 
-#### Metadata (used for search, rendering)
+---
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+*Progetto realizzato da Sonny Gabriele Aceto, divulgatore scientifico*
